@@ -1,0 +1,15 @@
+.box {
+  min-height: 50px;
+  margin-top: 5px;
+  background-color: salmon;
+}
+.h_align {
+  margin-top: 5px;
+  border: 1px solid black;
+}
+.h_align_c {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border: 1px solid black;
+  min-height: 200px;
+}
